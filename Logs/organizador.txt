@@ -1,0 +1,2 @@
+[31/05/2026 01:27:16] ERRO | Pasta não encontrada: img
+[31/05/2026 01:48:05] ERRO | Pasta não encontrada: 

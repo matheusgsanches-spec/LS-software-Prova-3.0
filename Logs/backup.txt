@@ -1,0 +1,2 @@
+[31/05/2026 01:47:57] ERRO | Origem não encontrada: ad
+[31/05/2026 01:48:05] ERRO | Origem não encontrada: d

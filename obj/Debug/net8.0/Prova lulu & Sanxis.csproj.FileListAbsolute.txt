@@ -1,0 +1,44 @@
+C:\Users\487313624\Documents\Prova lulu & Sanxis\obj\Debug\net8.0\Prova lulu & Sanxis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\487313624\Documents\Prova lulu & Sanxis\obj\Debug\net8.0\Prova lulu & Sanxis.AssemblyInfoInputs.cache
+C:\Users\487313624\Documents\Prova lulu & Sanxis\obj\Debug\net8.0\Prova lulu & Sanxis.AssemblyInfo.cs
+C:\Users\487313624\Documents\Prova lulu & Sanxis\obj\Debug\net8.0\Prova lulu & Sanxis.csproj.CoreCompileInputs.cache
+C:\Users\487313624\Documents\Prova lulu & Sanxis\bin\Debug\net8.0\Prova lulu & Sanxis.exe
+C:\Users\487313624\Documents\Prova lulu & Sanxis\bin\Debug\net8.0\Prova lulu & Sanxis.deps.json
+C:\Users\487313624\Documents\Prova lulu & Sanxis\bin\Debug\net8.0\Prova lulu & Sanxis.runtimeconfig.json
+C:\Users\487313624\Documents\Prova lulu & Sanxis\bin\Debug\net8.0\Prova lulu & Sanxis.dll
+C:\Users\487313624\Documents\Prova lulu & Sanxis\bin\Debug\net8.0\Prova lulu & Sanxis.pdb
+C:\Users\487313624\Documents\Prova lulu & Sanxis\obj\Debug\net8.0\Prova lulu & Sanxis.dll
+C:\Users\487313624\Documents\Prova lulu & Sanxis\obj\Debug\net8.0\refint\Prova lulu & Sanxis.dll
+C:\Users\487313624\Documents\Prova lulu & Sanxis\obj\Debug\net8.0\Prova lulu & Sanxis.pdb
+C:\Users\487313624\Documents\Prova lulu & Sanxis\obj\Debug\net8.0\Prova lulu & Sanxis.genruntimeconfig.cache
+C:\Users\487313624\Documents\Prova lulu & Sanxis\obj\Debug\net8.0\ref\Prova lulu & Sanxis.dll
+C:\Users\mathe\OneDrive\Documentos\sanxs\LS Software\LS Software Program\bin\Debug\net8.0\Prova lulu & Sanxis.exe
+C:\Users\mathe\OneDrive\Documentos\sanxs\LS Software\LS Software Program\bin\Debug\net8.0\Prova lulu & Sanxis.deps.json
+C:\Users\mathe\OneDrive\Documentos\sanxs\LS Software\LS Software Program\bin\Debug\net8.0\Prova lulu & Sanxis.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\sanxs\LS Software\LS Software Program\bin\Debug\net8.0\Prova lulu & Sanxis.dll
+C:\Users\mathe\OneDrive\Documentos\sanxs\LS Software\LS Software Program\bin\Debug\net8.0\Prova lulu & Sanxis.pdb
+C:\Users\mathe\OneDrive\Documentos\sanxs\LS Software\LS Software Program\obj\Debug\net8.0\Prova lulu & Sanxis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\sanxs\LS Software\LS Software Program\obj\Debug\net8.0\Prova lulu & Sanxis.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\sanxs\LS Software\LS Software Program\obj\Debug\net8.0\Prova lulu & Sanxis.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\sanxs\LS Software\LS Software Program\obj\Debug\net8.0\Prova lulu & Sanxis.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\sanxs\LS Software\LS Software Program\obj\Debug\net8.0\Prova lulu & Sanxis.sourcelink.json
+C:\Users\mathe\OneDrive\Documentos\sanxs\LS Software\LS Software Program\obj\Debug\net8.0\Prova lulu & Sanxis.dll
+C:\Users\mathe\OneDrive\Documentos\sanxs\LS Software\LS Software Program\obj\Debug\net8.0\refint\Prova lulu & Sanxis.dll
+C:\Users\mathe\OneDrive\Documentos\sanxs\LS Software\LS Software Program\obj\Debug\net8.0\Prova lulu & Sanxis.pdb
+C:\Users\mathe\OneDrive\Documentos\sanxs\LS Software\LS Software Program\obj\Debug\net8.0\Prova lulu & Sanxis.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\sanxs\LS Software\LS Software Program\obj\Debug\net8.0\ref\Prova lulu & Sanxis.dll
+C:\Users\mathe\Documents\LS Software\bin\Debug\net8.0\Prova lulu & Sanxis.exe
+C:\Users\mathe\Documents\LS Software\bin\Debug\net8.0\Prova lulu & Sanxis.deps.json
+C:\Users\mathe\Documents\LS Software\bin\Debug\net8.0\Prova lulu & Sanxis.runtimeconfig.json
+C:\Users\mathe\Documents\LS Software\bin\Debug\net8.0\Prova lulu & Sanxis.dll
+C:\Users\mathe\Documents\LS Software\bin\Debug\net8.0\Prova lulu & Sanxis.pdb
+C:\Users\mathe\Documents\LS Software\obj\Debug\net8.0\Prova lulu & Sanxis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Documents\LS Software\obj\Debug\net8.0\Prova lulu & Sanxis.AssemblyInfoInputs.cache
+C:\Users\mathe\Documents\LS Software\obj\Debug\net8.0\Prova lulu & Sanxis.AssemblyInfo.cs
+C:\Users\mathe\Documents\LS Software\obj\Debug\net8.0\Prova lulu & Sanxis.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\LS Software\obj\Debug\net8.0\Prova lulu & Sanxis.sourcelink.json
+C:\Users\mathe\Documents\LS Software\obj\Debug\net8.0\Prova lulu & Sanxis.dll
+C:\Users\mathe\Documents\LS Software\obj\Debug\net8.0\refint\Prova lulu & Sanxis.dll
+C:\Users\mathe\Documents\LS Software\obj\Debug\net8.0\Prova lulu & Sanxis.pdb
+C:\Users\mathe\Documents\LS Software\obj\Debug\net8.0\Prova lulu & Sanxis.genruntimeconfig.cache
+C:\Users\mathe\Documents\LS Software\obj\Debug\net8.0\ref\Prova lulu & Sanxis.dll

@@ -1,0 +1,4 @@
+[31/05/2026 01:26:03] ERRO | Usuário: mathe | Mensagem: The process cannot access the file 'C:\Users\mathe\AppData\Local\Temp\1f4604e3-bc08-4e9b-ac2c-49ba40355a99.tmp' because it is being used by another process.
+[31/05/2026 01:26:56] ERRO | Usuário: mathe | Mensagem: The process cannot access the file 'C:\Users\mathe\AppData\Local\Temp\1f4604e3-bc08-4e9b-ac2c-49ba40355a99.tmp' because it is being used by another process.
+[31/05/2026 01:47:49] ERRO | Usuário: mathe | Mensagem: The process cannot access the file 'C:\Users\mathe\AppData\Local\Temp\1f4604e3-bc08-4e9b-ac2c-49ba40355a99.tmp' because it is being used by another process.
+[31/05/2026 01:48:02] ERRO | Usuário: mathe | Mensagem: The process cannot access the file 'C:\Users\mathe\AppData\Local\Temp\1f4604e3-bc08-4e9b-ac2c-49ba40355a99.tmp' because it is being used by another process.

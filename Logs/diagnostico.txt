@@ -1,0 +1,3 @@
+[31/05/2026 01:27:03] Máquina: DESKTOP-M210JOO | Usuário: mathe | Sistema: Microsoft Windows NT 10.0.26200.0
+[31/05/2026 01:48:00] Máquina: DESKTOP-M210JOO | Usuário: mathe | Sistema: Microsoft Windows NT 10.0.26200.0
+[31/05/2026 01:48:05] Máquina: DESKTOP-M210JOO | Usuário: mathe | Sistema: Microsoft Windows NT 10.0.26200.0
